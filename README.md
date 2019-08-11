@@ -1,1 +1,1 @@
-# Code-For-COMPLEXITY-AND-GEOMETRY-OF-SAMPLING-CONNECTED-GRAPH-PARTITIONS
+# Code accompanying paper "Complexity-and-Geometry-of-Sampling-Connected-Graph-Partitions"
