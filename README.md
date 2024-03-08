@@ -1,6 +1,6 @@
 # Code accompanying paper "Complexity-and-Geometry-of-Sampling-Connected-Graph-Partitions"
 
-Code written by Lorenzo Najt and Daryl DeFord. 
+Code written by Elle Najt and Daryl DeFord. 
 
 Required libraries: gerrychain 
 
